@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "ms-python.python",
+    "SBSnippets.pytorch-snippets",
+    "formulahendry.code-runner",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "VisualStudioExptTeam.intellicode-api-usage-examples"
+  ]
+}
